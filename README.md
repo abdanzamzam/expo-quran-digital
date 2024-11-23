@@ -1,2 +1,2 @@
-# Quran Digital ID
+# Quran Digital
 Open-source project for free and easy access to the Quran.
