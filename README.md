@@ -1,7 +1,7 @@
 
 # Quran Digital
 
-**Quran Digital** is an open-source project designed to provide free and easy access to the Quran. Built with **Expo.js**, it focuses on simplicity, accessibility, and cross-platform support for both Android and iOS.
+**Quran Digital** is an open-source project designed to provide free and easy access to the Quran. Built with **Expo.js**, it focuses on simplicity, accessibility, and cross-platform support for both Web, Android and iOS.
 
 ---
 
@@ -86,4 +86,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact
 
-For any inquiries, feel free to contact us at **your-email@example.com**.
+For any inquiries, feel free to contact us at **abdan.dev@gmail.com**.
